@@ -31,7 +31,7 @@ pip install pyautogui pynput opencv-python customtkinter pillow
 ### Installation:
 1. Clone or download the repository to your local machine.
 2. Install Python and the necessary libraries using the command above.
-3. Run the script `beascuit_autoclicker.py`.
+3. Run the script `crk_beascuit_roller.py`.
 
 ### How to Use:
 
