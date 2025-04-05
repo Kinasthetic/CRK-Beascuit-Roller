@@ -13,7 +13,7 @@ import os
 TEMPLATE_DIR = "stat_templates"
 TEMPLATE_THRESHOLD = 0.7
 
-
+# comment just bc
 def match_template(crop, template_path):
     crop_gray = cv2.cvtColor(np.array(crop.convert("RGB")), cv2.COLOR_RGB2GRAY)
     template = cv2.imread(template_path, 0)
