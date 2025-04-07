@@ -1,1 +1,7 @@
-pyautogui pynput opencv-python customtkinter pillow
+pyautogui==0.9.53
+pynput==1.7.6
+opencv-python==4.5.5.64
+customtkinter==4.0.0
+pytesseract==0.3.8
+pillow==8.4.0
+
